@@ -21,7 +21,7 @@ public class basicArithmeticOperators {
 		System.out.println("Integer e = " + ie);
 		System.out.println();
 		
-		//Arithmetic operations with Integers
+		//Arithmetic operations with Doubles
 		System.out.println("Floating-point Arithmetic:");
 		double da = 1 + 1;
 		double db = da * 3;
